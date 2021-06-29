@@ -1,5 +1,15 @@
 # README
 
+Twitter Clone アプリです。
+
+https://qiita.com/kazukimatsumoto/items/14bdff681ec5ddac26d1 
+
+上記の記事を参考に作りました。
+
+
+
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
